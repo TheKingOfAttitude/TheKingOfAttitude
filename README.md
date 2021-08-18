@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @TheKingOfAttitude
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Pass Cracking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+pkg update
 
-<!---
-TheKingOfAttitude/TheKingOfAttitude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+pkg upgrade
+
+pkg install python
+
+pkg install python2
+
+pkg install python2 git nodejs
+
+pip2 install requests
+
+pip2 install mechanize
+
+pip2 install lolcat
+
+pip2 install bs4
+
+pkg install git
+
+git clone https://github.com thekingofattitude
+
+cd thekingofattitude
+
+python2 thekingofattitude.sos
